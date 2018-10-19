@@ -1,0 +1,30 @@
+{
+  "name": "Baby",
+  "year": 2015,
+  "runtime": 159,
+  "categories": [
+    "adventure",
+    "thriller",
+    "action"
+  ],
+  "release-date": "2015-01-23",
+  "director": "Neeraj Pandey",
+  "writer": [
+    "Neeraj Pandey",
+    "Aas Mohammad Abbasi"
+  ],
+  "actors": [
+    "Akshay Kumar",
+    "Danny Denzongpa",
+    "Rana Daggubati",
+    "Taapsee Pannu",
+    "Kay Kay Menon",
+    "Sushant Singh",
+    "Madhurima Tuli",
+    "Mikaal Zulfiqar",
+    "Murali Sharma",
+    "Rasheed Naz",
+    "Anupam Kher"
+  ],
+  "storyline": "An elite counter-intelligence unit learns of a plot, masterminded by a maniacal madman. With the clock ticking, it's up to them to track the terrorists' international tentacles and prevent them from striking at the heart of India."
+}
